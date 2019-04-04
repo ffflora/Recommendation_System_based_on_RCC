@@ -27,13 +27,5 @@ contains four files: Users, Movie, Links, and Tags, in this project, all four fi
 <li>K-means clustering.</li>
 <li>Robust Continuous Clustering.</li>
 <li>Recommend movies.</li>
-<li>Calculate AMI.</li>
 </ul>
-<h2 id="results-and-analysis">Results and Analysis</h2>
-<ul>
-<li></li>
-</ul>
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
 
